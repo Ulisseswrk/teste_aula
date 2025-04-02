@@ -1,1 +1,2 @@
-print('Hello world')
+nome = 0
+print('Hello,', nome)
