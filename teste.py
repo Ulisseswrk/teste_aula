@@ -1,4 +1,7 @@
-nome = input('Digite o seu nome: ')
-print('Hello,', nome)
+idade = int(input('Digite a sua idade: '))
+
+
+
+print('Sua idade é', idade)
 
 
